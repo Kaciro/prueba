@@ -2,7 +2,7 @@ package pageObjects;
 
 public class LoginPage extends BasePage {
 
-    private String searchButton = "//input[contains(@id,'nav-search-submit-button')]";
+    private String searchButton = "//input[contains(@id,'nav-search-submit-buttonn')]";
     private String searchTextField = "//input[contains(@id,'twotabsearchtextbox')]";
     private String firstResult = "";
     public LoginPage(){
